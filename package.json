@@ -2,8 +2,9 @@
   "name": "xsandos",
   "version": "0.1.0",
   "description": "Tic-Tac-Toe Game.",
-  "main": "index.js",
+  "main": "run.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
